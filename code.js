@@ -1,14 +1,4 @@
 //https://github.com/KenzieAcademy-Students/datamodels-array-of-objects-practice-ricklyman
-//In what ways are objects easier to work with than arrays? 
-//Easier because of the versatility.
-//In what ways are arrays easier than objects?
-//Easier because the are less complicated (similar data throughout).	
-
-// Follow the Instructions on my.kenzie.academy for this assignment.
-// Those instructions will give you details on each step.
-
-// STEP ONE - Create your Data Model.
-//let dataModel = null;  // Assign your data model here, instead of null. This should be an array of "dog" objects.
 
 let dataModel = [
   {
